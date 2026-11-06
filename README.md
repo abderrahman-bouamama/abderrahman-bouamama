@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @abderrahman-bouamama
-- 👀 I’m interested in data science, web developpement , IOT and news IT.
-- 🌱 I’m currently learning web developpmement and data science.
-- 💞️ I’m looking to collaborate on web apps and data .
+- ⚡ **Abderrahmane Bouamama** — AI Systems Architect & Full-Stack Builder
+- 🚀 Founder & Owner of **[siscaller.com](https://siscaller.com)**
+- 🧠 Architecting **AI Automation**, **Autonomous Looping Systems**, & **Multi-Agent Workflows**
+- 🔍 Building production **RAG Pipelines** & **Fine-Tuned Local/Cloud Models**
+- 💻 Shipping end-to-end **Full-Stack Web & Data Applications**
+- 🤝 Open to high-impact collaborations in **AI Engineering**, **Decision Systems**, and **SaaS Architecture**
